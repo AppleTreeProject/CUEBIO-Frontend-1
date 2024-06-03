@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-appletreemap-dev-1c28e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::725288116504:role/amplify-appletreemap-dev-1c28e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::725288116504:role/amplify-appletreemap-dev-1c28e-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-appletreemap-dev-1c28e-deployment",
+      "UnauthRoleName": "amplify-appletreemap-dev-1c28e-unauthRole",
+      "StackName": "amplify-appletreemap-dev-1c28e",
+      "StackId": "arn:aws:cloudformation:us-east-2:725288116504:stack/amplify-appletreemap-dev-1c28e/5c534bb0-21d8-11ef-9f5f-066be19237e9",
+      "AmplifyAppId": "d32khv4m4zqw8m"
+    }
+  }
+}
